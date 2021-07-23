@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanRezv&repo=Telegram_bot_garage_1" />
 </a>
 <a href="https://github.com/IvanRezv/PythonPopularAlogoritms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanRezv&repo=PythonPopularAlogoritms" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanRezv&repo=Django_forum" />
 </a>
 
 ![](https://img.shields.io/badge/VCS-Gitea-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
