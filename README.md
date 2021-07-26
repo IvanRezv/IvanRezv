@@ -15,7 +15,7 @@
 <a href="https://github.com/IvanRezv/Telegram_bot_garage_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanRezv&repo=Telegram_bot_garage_1" />
 </a>
-<a href="https://github.com/IvanRezv/PythonPopularAlogoritms">
+<a href="https://github.com/IvanRezv/Django_forum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanRezv&repo=Django_forum" />
 </a>
 
