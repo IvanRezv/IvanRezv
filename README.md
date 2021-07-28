@@ -5,7 +5,7 @@
 <ul>
   <li>Telegram bots</li>
   <li>Django projects</li>
-  <li>Jenkins files</li>
+  <li>Docker and Jenkins deploy projects</li>
 </ul>
 
 <hr>
