@@ -1,12 +1,7 @@
-<h1 align="center">Hello World! 👋  </h1>
+<h1 align="center">Hello👋</h1>
 
-<p>⚡ My name is Ivan, and here are a few things I'm working and playing on: ⚡</p>
+<p>⚡ Here is a storage of tools used by me ⚡</p>
 
-<ul>
-  <li>📫 Telegram bots</li>
-  <li>🔭 Django projects</li>
-  <li>😄Docker and Jenkins deploy projects</li>
-</ul>
 
 ![](https://img.shields.io/badge/My-Stack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
@@ -14,13 +9,13 @@
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/jenkinsci/jenkins/f185e66ef70b67236d944eb5e06d6bad3516c889/war/src/main/webapp/images/jenkins-header-logo-v2.svg" />
-
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="Gitlab" width="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" />
 
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
 <img align="left" alt="Kuber" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+
+<img align="left" alt="Jaeger" width="26px" src="https://www.nicepng.com/png/detail/329-3294962_jaeger-tracing-logo.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
