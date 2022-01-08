@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋</h1>
 
-<p>⚡ Here is a storage of tools used by me ⚡</p>
+<p>⚡ Here is a storage of tools used by me and my own projects ⚡</p>
 
 
 ![](https://img.shields.io/badge/My-Stack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
