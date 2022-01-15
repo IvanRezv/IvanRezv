@@ -32,7 +32,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ivanrezv-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ivanrezv) [![Telegram Badge](https://img.shields.io/badge/-@IvanRezv-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://tlgg.ru/@Ivan_Rezvetsov) [![Mail Badge](https://img.shields.io/badge/-@vanyads07-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanyads07) [![Mail Badge](https://img.shields.io/badge/-Gmailbox-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@IvanRezv-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://tlgg.ru/@Ivan_Rezvetsov) [![Mail Badge](https://img.shields.io/badge/-@vanyads07-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanyads07) [![Mail Badge](https://img.shields.io/badge/-Gmailbox-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 
 <details>
