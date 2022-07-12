@@ -32,7 +32,7 @@
 
 :mailbox: Reach me out!
 
-[![Telegram Badge](https://img.shields.io/badge/-@IvanRezv-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://tlgg.ru/@Ivan_Rezvetsov) [![Mail Badge](https://img.shields.io/badge/-@vanyads07-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanyads07) [![Mail Badge](https://img.shields.io/badge/-Gmailbox-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@IvanRezv-0e76a8?style=flat&labelColor=0e76a8&logo=telegram&logoColor=white)](https://tlgg.ru/@Ivan_Rezvetsov) [![Mail Badge](https://img.shields.io/badge/-IvanRezv-e84393?style=flat&labelColor=e84393&logo=habr&logoColor=white)](https://career.habr.com/ivanrezv) [![Mail Badge](https://img.shields.io/badge/-Gmailbox-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 
 <details>
